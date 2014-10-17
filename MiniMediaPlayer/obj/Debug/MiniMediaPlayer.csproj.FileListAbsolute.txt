@@ -1,0 +1,123 @@
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\MiniMediaPlayer.exe
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\MiniMediaPlayer.pdb
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\MainWindow.baml
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\MainWindow.g.cs
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\App.g.cs
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\MiniMediaPlayer_MarkupCompile.cache
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\MiniMediaPlayer.g.resources
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\MiniMediaPlayer.exe
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\MiniMediaPlayer.pdb
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\System.Windows.Interactivity.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\System.Windows.Interactivity.xml
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\MiniMediaPlayer_MarkupCompile.lref
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\App.baml
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\BtnCircle.baml
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\BtnRectangle.baml
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\BtnCircle.g.cs
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\BtnRectangle.g.cs
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Debug\Simple Styles.baml
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\MiniMediaPlayer.exe
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\MiniMediaPlayer.pdb
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\MiniMediaPlayer.exe
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\MiniMediaPlayer.pdb
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\System.Windows.Interactivity.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\System.Windows.Interactivity.xml
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\BtnCircle.baml
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\BtnRectangle.baml
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\Simple Styles.baml
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\App.baml
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\BtnCircle.g.cs
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\MainWindow.g.cs
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\BtnRectangle.g.cs
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\App.g.cs
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\MiniMediaPlayer_MarkupCompile.cache
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\MiniMediaPlayer_MarkupCompile.lref
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\MainWindow.baml
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\MiniMediaPlayer.g.resources
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\MiniMediaPlayer.exe
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\MiniMediaPlayer.pdb
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\System.Windows.Interactivity.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\System.Windows.Interactivity.xml
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\BtnCircle.baml
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\BtnRectangle.baml
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\Simple Styles.baml
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\App.baml
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\BtnCircle.g.cs
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\MainWindow.g.cs
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\BtnRectangle.g.cs
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\App.g.cs
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\MiniMediaPlayer_MarkupCompile.cache
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\MiniMediaPlayer_MarkupCompile.lref
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\MainWindow.baml
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\MiniMediaPlayer.g.resources
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\MiniMediaPlayer.exe
+D:\Developer\Project\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Debug\MiniMediaPlayer.pdb

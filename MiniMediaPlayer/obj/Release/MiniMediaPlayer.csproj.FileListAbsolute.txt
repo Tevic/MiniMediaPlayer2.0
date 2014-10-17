@@ -1,0 +1,45 @@
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\MiniMediaPlayer.exe
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\MiniMediaPlayer.pdb
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\Microsoft.Expression.Interactions.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\System.Windows.Interactivity.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\Microsoft.Expression.Interactions.xml
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\System.Windows.Interactivity.xml
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\ResolveAssemblyReference.cache
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\BtnCircle.baml
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\BtnRectangle.baml
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\Simple Styles.baml
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\App.baml
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\BtnCircle.g.cs
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\MainWindow.g.cs
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\BtnRectangle.g.cs
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\App.g.cs
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\MiniMediaPlayer_MarkupCompile.cache
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\MiniMediaPlayer_MarkupCompile.lref
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\MainWindow.baml
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\MiniMediaPlayer.g.resources
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\MiniMediaPlayer.exe
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\obj\Release\MiniMediaPlayer.pdb
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\Microsoft.WindowsAPICodePack.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\Microsoft.WindowsAPICodePack.pdb
+D:\Course\C#\MiniMediaPlayer\MiniMediaPlayer\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Release\MiniMediaPlayer.exe
+D:\Course\C#\MiniMediaPlayer 2.0\MiniMediaPlayer\obj\Release\MiniMediaPlayer.pdb

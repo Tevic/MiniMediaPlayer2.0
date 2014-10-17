@@ -1,0 +1,71 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:my="clr-namespace:MiniMediaPlayer" xmlns:Microsoft_Windows_Themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Classic"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+	x:Class="MiniMediaPlayer.MainWindow"
+	x:Name="Window"
+	Title="MiniMediaPlayer"
+	Width="800" Height="600" WindowStartupLocation="CenterScreen" MinWidth="800" MinHeight="600" Background="Black" ResizeMode="CanResizeWithGrip" Loaded="Window_Loaded" AllowDrop="True" Drop="Window_Drop" Icon="/MiniMediaPlayer;component/Res/IDR_MAINFRAME.ico">
+
+	<Grid x:Name="LayoutRoot">
+		<Grid Margin="0,0,0,75">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="0.478*"/>
+				<ColumnDefinition Width="472.42"/>
+				<ColumnDefinition Width="0.522*"/>
+			</Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+				<RowDefinition Height="0.903*"/>
+				<RowDefinition Height="0.097*"/>
+			</Grid.RowDefinitions>
+			<MediaElement x:Name="MediaPlayer" UnloadedBehavior="Manual" Volume="0.2" IsMuted="False" PreviewMouseLeftButtonDown="MediaPlayer_PreviewMouseLeftButtonDown" Grid.ColumnSpan="3" AllowDrop="False" LoadedBehavior="Manual" />
+			<Slider x:Name="SliderVolume" Margin="79.42,5,5.58,27.239" Grid.Row="1" Style="{DynamicResource SimpleSlider}" LargeChange="0.1" Maximum="1" Minimum="0" SmallChange="0.01" Value="{Binding Path=Volume, ElementName=MediaPlayer}" PreviewMouseLeftButtonDown="SliderVolume_PreviewMouseLeftButtonDown" Grid.Column="1" Height="15">
+                <Slider.Background>
+                    <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                        <GradientStop Color="Red" Offset="1" />
+                        <GradientStop Color="Blue" />
+                    </LinearGradientBrush>
+                </Slider.Background>
+            </Slider>
+			<Slider x:Name="SliderProgress" Margin="79.42,24.239,6.58,8" Grid.Row="1" Style="{DynamicResource SimpleSlider}" PreviewMouseLeftButtonDown="SliderProgress_PreviewMouseLeftButtonDown" PreviewMouseLeftButtonUp="SliderProgress_PreviewMouseLeftButtonUp" LargeChange="0.1" Maximum="1" SmallChange="0.01" Grid.Column="1" IsEnabled="True" Height="15" >
+                <Slider.Background>
+                    <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                        <GradientStop Color="#FF050AFA" Offset="0" />
+                        <GradientStop Color="White" Offset="1" />
+                    </LinearGradientBrush>
+                </Slider.Background>
+            </Slider>
+            <TextBlock Grid.Row="1" Margin="4,4,397,0" Name="TbxVolume" Text="Volume" FontWeight="Bold" FontStyle="Italic" PreviewMouseLeftButtonDown="TbxVolume_PreviewMouseLeftButtonDown" Height="19.015" VerticalAlignment="Top" d:LayoutOverrides="VerticalAlignment" Grid.Column="1">
+            	<TextBlock.Foreground>
+            		<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            			<GradientStop Color="Red" Offset="1"/>
+            			<GradientStop Color="Blue"/>
+            		</LinearGradientBrush>
+            	</TextBlock.Foreground>
+            </TextBlock>
+            <TextBlock Grid.Row="1" Margin="4,22.015,398,8" Name="TbxProgress" Text="Progress" FontWeight="Bold" FontStyle="Italic" Grid.Column="1">
+            	<TextBlock.Foreground>
+            		<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            			<GradientStop Color="#FFE5E5E5" Offset="1"/>
+            			<GradientStop Color="Blue"/>
+            		</LinearGradientBrush>
+            	</TextBlock.Foreground>
+            </TextBlock>
+            <TextBlock Grid.Row="1" Height="38" Margin="0,2,7.68,0" Name="TbxTime" VerticalAlignment="Top" FontSize="15" FontWeight="Bold" Grid.Column="2" d:LayoutOverrides="HorizontalAlignment" FontFamily="Microsoft YaHei" AllowDrop="True" Foreground="Yellow" />
+        </Grid>
+		<Grid Height="75" VerticalAlignment="Bottom">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="0.5*"/>
+				<ColumnDefinition Width="600"/>
+				<ColumnDefinition Width="0.5*"/>
+			</Grid.ColumnDefinitions>
+			<Button x:Name="BtnOpen" Content="▲" Grid.Column="1" Margin="178,9.5,0,15.5" Style="{DynamicResource BtnCostume}" FontSize="26.667" Foreground="Lime" Height="50" HorizontalAlignment="Left" Width="50" Click="BtnOpen_Click" />
+			<Button x:Name="BtnPlay" Content="▶" Grid.Column="1" Margin="308,9.5,0,15.5" Style="{DynamicResource BtnCustome2}" Height="50" FontFamily="Microsoft YaHei" FontSize="24" Foreground="Yellow" FontWeight="Bold" HorizontalAlignment="Left" Width="50" d:LayoutOverrides="GridBox" Click="BtnPlay_Click" IsEnabled="True"  />
+			<Button x:Name="BtnForward" Content="&gt;&gt;" Grid.Column="1" Margin="373,9.5,177,15.5" Style="{DynamicResource BtnCustome2}" Height="50" FontFamily="Microsoft YaHei" FontWeight="Bold" FontSize="26.667" Foreground="#FF646464" Width="50" d:LayoutOverrides="GridBox" Click="BtnForward_Click" />
+			<Button x:Name="BtnBack" Content="&lt;&lt;" Grid.Column="1" Margin="243,9.5,307,15.5" Style="{DynamicResource BtnCustome2}" Height="50" FontFamily="Microsoft YaHei" FontSize="26.667" Foreground="#FF646464" FontWeight="Bold" Click="BtnBack_Click" />
+			<Button x:Name="BtnStop" Content="■" Grid.Column="1" Margin="438,9.5,112,15.5" Style="{DynamicResource BtnCustome2}" Height="50" FontFamily="Microsoft YaHei" FontSize="32" Foreground="Red" FontWeight="Bold" d:LayoutOverrides="GridBox" Width="50" Click="BtnStop_Click" FontStretch="Normal" />
+			<Button x:Name="BtnAbout" Content="A" Grid.Column="1" Margin="113,9.5,0,15.5" Style="{DynamicResource BtnCostume}" FontSize="26.667" Foreground="#FF646464" Height="50" Width="50" HorizontalAlignment="Left" d:LayoutOverrides="Width" Click="BtnAbout_Click" /> 
+        </Grid>
+	</Grid>
+</Window>
